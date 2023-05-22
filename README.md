@@ -14,4 +14,5 @@ I'm always looking for new challenges and I'm excited to learn more about softwa
 Thanks for visiting my GitHub repo!
 
 email: ms6065097@gmail.com
+
 linkedin: https://www.linkedin.com/in/mohiit-singh
