@@ -6,6 +6,7 @@ I'm passionate about software development and I'm currently learning **Java, HTM
 Here are some of the projects I've worked on along with their live link:
 
 A Password Generator -> https://mohiitsingh.github.io/PasswordGenerator/
+
 A website for online courses using HTML5, CSS3, and JavaScript -> https://mohiitsingh.github.io/schoolWebsite/
 
 I'm always looking for new challenges and I'm excited to learn more about software development. If you have any feedback or suggestions, please feel free to reach out to me.
