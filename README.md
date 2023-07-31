@@ -5,6 +5,10 @@ I'm passionate about software development and I'm currently learning **Java, HTM
 
 Here are some of the projects I've worked on along with their live link:
 
+E-commerce store -> https://doaansh-five.vercel.app/index.html
+
+Job Portal -> https://spires-main.vercel.app/index.html
+
 A Password Generator -> https://mohiitsingh.github.io/PasswordGenerator/
 
 A website for online courses using HTML5, CSS3, and JavaScript -> https://mohiitsingh.github.io/schoolWebsite/
@@ -15,4 +19,4 @@ Thanks for visiting my GitHub repo!
 
 email: ms6065097@gmail.com
 
-linkedin: https://www.linkedin.com/in/mohiit-singh
+LinkedIn: https://www.linkedin.com/in/mohiit-singh
