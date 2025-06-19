@@ -11,8 +11,6 @@ Freelance Project [Education Site] -> https://www.aryabms.in/home
 
 E-commerce store -> https://doaansh-five.vercel.app/index.html
 
-A website for online courses using HTML5, CSS3, and JavaScript -> https://mohiitsingh.github.io/schoolWebsite/
-
 Thanks for visiting my GitHub!!
 
 Connect on my other social accounts:
