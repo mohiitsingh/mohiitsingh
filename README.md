@@ -1,22 +1,22 @@
 
-# Hi! I'm Mohit Singh, a BTech student in Electronics and Communication Engineering.
+# Hi! I'm Mohit Singh, Frontend Web Developer.
 
-I'm passionate about software development and I'm currently learning **Java, HTML5, CSS3, and JavaScript**. I'm eager to become a full-stack web developer and I'm using this GitHub repo to showcase my skills and projects.
+Frontend Developer | Skilled in AngularJS with 1+ Years of Development Expertise
 
 Here are some of the projects I've worked on along with their live link:
 
+Job Portal [Worked in many pages during my internship] -> https://www.spiresrecruit.com/
+
+Freelance Project [Education Site] -> https://www.aryabms.in/home
+
 E-commerce store -> https://doaansh-five.vercel.app/index.html
-
-Job Portal -> https://spires-main.vercel.app/index.html
-
-A Password Generator -> https://mohiitsingh.github.io/PasswordGenerator/
 
 A website for online courses using HTML5, CSS3, and JavaScript -> https://mohiitsingh.github.io/schoolWebsite/
 
-I'm always looking for new challenges and I'm excited to learn more about software development. If you have any feedback or suggestions, please feel free to reach out to me.
+Thanks for visiting my GitHub!!
 
-Thanks for visiting my GitHub repo!
+Connect on my other social accounts:
 
-email: ms6065097@gmail.com
+email: mohits0819@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/mohiit-singh
