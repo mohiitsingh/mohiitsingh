@@ -9,12 +9,8 @@ Job Portal [Worked in many pages during my internship] -> https://www.spiresrecr
 
 Freelance Project [Education Site] -> https://www.aryabms.in/home
 
-E-commerce store -> https://doaansh-five.vercel.app/index.html
 
-Thanks for visiting my GitHub!!
-
-Connect on my other social accounts:
+Connect With Me:
 
 email: mohits0819@gmail.com
-
 LinkedIn: https://www.linkedin.com/in/mohiit-singh
