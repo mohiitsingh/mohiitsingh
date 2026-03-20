@@ -1,7 +1,6 @@
 
-# Hi! I'm Mohit Singh, Frontend Web Developer.
+# Hi! I'm Mohit Singh, a full-stack developer.
 
-Frontend Developer | Skilled in AngularJS with 1+ Years of Development Expertise
 
 Latest work: 
 
