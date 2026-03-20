@@ -3,14 +3,17 @@
 
 Frontend Developer | Skilled in AngularJS with 1+ Years of Development Expertise
 
-Here are some of the projects I've worked on along with their live link:
+Latest work: 
 
-Job Portal [Worked in many pages during my internship] -> https://www.spiresrecruit.com/
+SAAS For Cafes and Restaurants- which helps in operations such as billing and tracks revenue.
 
-Freelance Project [Education Site] -> https://www.aryabms.in/home
+![Logo](https://www.arambhonline.in/logo.png)
 
 
-Connect With Me:
-
+## 🔗 Connect With Me
 email: mohits0819@gmail.com
-LinkedIn: https://www.linkedin.com/in/mohiit-singh
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohiit-singh)
+[![X](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/MohitSingh4298)
+[![X](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://x.com/MohitSingh4298)
+
