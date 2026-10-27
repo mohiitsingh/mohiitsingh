@@ -6,7 +6,7 @@ Latest work:
 
 SAAS For Cafes and Restaurants, which helps in operations such as billing and tracking revenue.
 
-[![Logo](https://www.arambhonline.in/logo.png)](https://www.arambhonline.in)
+[![Arambh](https://www.arambhonline.in/logo.png)](https://www.arambhonline.in)
 
 
 ## 🔗 Connect With Me
